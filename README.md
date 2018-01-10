@@ -1,4 +1,5 @@
-# Data Mining and Exploration 
+# Data Mining and Exploration
+## Original 2017 version by Agamemnon Krasoulis
 This repository contains the code for the [University of Edinburgh](http://www.ed.ac.uk/) [School of Informatics](http://www.ed.ac.uk/informatics/) course Data Mining and Exploration [INFR11007].
 ## Links
   * [School course page](http://www.inf.ed.ac.uk/teaching/courses/dme/)
