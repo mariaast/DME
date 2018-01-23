@@ -37,7 +37,6 @@ Once you have finished installed everything, you should download the course mate
   
     ```bash
     wget https://github.com/sinziana91/DME/archive/master.zip
-    
     unzip master.zip
     ```
     
