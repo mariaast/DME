@@ -19,9 +19,11 @@ omitting "source" for a Windows installation. To deactivate the environment do: 
 
 We will now install the required packages:
 
-```conda install jupyter numpy scipy matplotlib pandas statsmodels scikit-learn seaborn
-conda install -c conda-forge scikit-optimize
-pip install git+git://github.com/sinziana91/pca-magic.git@master```
+```conda install jupyter numpy scipy matplotlib pandas statsmodels scikit-learn seaborn```
+
+```conda install -c conda-forge scikit-optimize```
+
+```pip install git+git://github.com/sinziana91/pca-magic.git@master```
 
 
 ### Course material ###
