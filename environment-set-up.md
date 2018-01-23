@@ -44,7 +44,7 @@ Now open a terminal and follow these instructions. We are expecting you to enter
   cd dme_2016
   ```
 5. Now you have two options:
-  1. We recommend that you directly download a .zip file from https://github.com/agamemnonc/dme which will contain everything you need and save it in the folder you have just created. You can do this from the terminal by typing:
+  1. We recommend that you directly download a .zip file from https://github.com/sinziana91/DME which will contain everything you need and save it in the folder you have just created. You can do this from the terminal by typing:
     ```bash
     
     wget https://github.com/agamemnonc/dme/archive/master.zip
