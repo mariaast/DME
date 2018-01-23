@@ -35,10 +35,8 @@ pip install git+git://github.com/sinziana91/pca-magic.git@master
 Once you have finished installed everything, you should download the course material. You have two options:
   1. We recommend that you directly download a .zip file from https://github.com/sinziana91/DME/ which will contain everything you need and save it in the folder you have just created. You can do this from the terminal by typing:
   
-    ```
     wget https://github.com/sinziana91/DME/archive/master.zip
     unzip master.zip
-    ```
     
   2. If **and only if** you are familiar and confident with using Git/GitHub, you can initialise a git directory, add the above repo as remote and pull everything into your local directory. Please use this option only if you really know what you are doing. Unfortunately, we won't be able to provide you with Git/Github support if you run into issues with syncing and using version control in general.
 
