@@ -9,19 +9,20 @@ notes](https://github.com/sinziana91/mlpractical/blob/mlp2017-8/master/notes/env
 
 Create the Conda environment for the DME labs with:
 
-```conda create -n dme python=3```
+`conda create -n dme python=3`
 
 Type `y` when presented with the package plan. Every time you start working on the lab exercises you have to activate your environment with:
 
-``` source activate dme```
+`source activate dme` 
 
-omitting "source" for a Windows installation. To deactivate the environment do: ``` source deactivate dme``` (or ``` deactivate dme``` for Windows).
+omitting "source" for a Windows installation. To deactivate the environment do: `source deactivate dme` (or ` deactivate dme` for Windows).
 
 We will now install the required packages:
 
 ```conda install jupyter numpy scipy matplotlib pandas statsmodels scikit-learn seaborn
 conda install -c conda-forge scikit-optimize
 pip install git+git://github.com/sinziana91/pca-magic.git@master```
+
 
 ### Course material ###
 
