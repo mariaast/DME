@@ -31,4 +31,4 @@ The main **packages** that we will use are the following:
 * [seaborn](https://seaborn.github.io/index.html): data visualisation library which works on top of matplotlib
 
 ## Getting set up
-  Detailed instructions for setting up a development environment for the course are given in [this file](https://github.com/agamemnonc/dme/blob/master/environment-set-up.md).
+  Detailed instructions for setting up a development environment for the course are given in [this file](https://github.com/sinziana91/DME/blob/master/environment-set-up.md).
